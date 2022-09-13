@@ -21,11 +21,16 @@
 		"dependencies"
 	],
 	"scripts": {
+		"lint": "npm run lint:style",
+		"lint:fix": "npm run lint:style:fix",
+		"lint:style": "prettier --check --ignore-unknown .",
+		"lint:style:fix": "prettier --write --ignore-unknown .",
 		"prepare": "husky install"
 	},
 	"devDependencies": {
 		"@commitlint/cli": "^17.1.2",
 		"@commitlint/config-conventional": "^17.1.0",
-		"husky": "^8.0.1"
+		"husky": "^8.0.1",
+		"prettier": "^2.7.1"
 	}
 }
