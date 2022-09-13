@@ -1,0 +1,23 @@
+{
+	"name": "demo-auto-security-release",
+	"version": "0.0.1",
+	"description": "Demo on how to use Github Actions to automatically release fixes for dependency vulnerabilities",
+	"private": true,
+	"license": "LISENCE",
+	"bugs": "https://github.com/Th3S4mur41/demo-auto-security-release/issues",
+	"homepage": "https://github.com/Th3S4mur41/demo-auto-security-releases#readme",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Th3S4mur41/demo-auto-security-release.git"
+	},
+	"keywords": [
+		"blog",
+		"demo",
+		"semantic-release",
+		"dependabot",
+		"github-actions",
+		"security",
+		"vulnerabilities",
+		"dependencies"
+	]
+}

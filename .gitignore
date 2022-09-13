@@ -46,6 +46,7 @@ typings/
 
 # TypeScript cache
 *.tsbuildinfo
+.tscache/
 
 # Optional npm cache directory
 .npm
@@ -102,3 +103,18 @@ dist
 
 # TernJS port file
 .tern-port
+
+# IDEs
+*.code-workspace
+.idea/
+!.idea/codeStyles/
+.history/
+*.local
+
+# OS
+.DS_Store
+
+# Reports
+reports/
+hint-report/
+lighthouse*
