@@ -9,6 +9,9 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
+permissions:
+  pull-requests: write
+
 jobs:
   lint-pr:
     name: '🕵️‍♂️ Lint Commit Message'
