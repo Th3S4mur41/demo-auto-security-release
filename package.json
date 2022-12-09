@@ -3,7 +3,7 @@
 	"version": "0.0.1",
 	"description": "Demo on how to use Github Actions to automatically release fixes for dependency vulnerabilities",
 	"private": true,
-	"license": "LISENCE",
+	"license": "LICENSE",
 	"bugs": "https://github.com/Th3S4mur41/demo-auto-security-release/issues",
 	"homepage": "https://github.com/Th3S4mur41/demo-auto-security-releases#readme",
 	"repository": {
