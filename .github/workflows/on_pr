@@ -1,0 +1,27 @@
+# This is workflow runs on PR
+#
+name: Check Pull Request
+
+# Controls when the action will run.
+on:
+  # Trigger workflow for pull requests.
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  cancel-runs:
+    name: '▶️ actions'
+    uses: ./.github/workflows/cancel-workflow.yml
+
+  lint-pr:
+    name: '▶️ actions'
+    needs: [cancel-runs]
+    uses: ./.github/workflows/lint-pr.yml
+
+  lint-code:
+    name: '▶️ actions'
+    needs: [lint-pr]
+    uses: ./.github/workflows/lint-code.yml
