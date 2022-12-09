@@ -16,6 +16,11 @@ jobs:
     name: '▶️ actions'
     uses: ./.github/workflows/cancel-workflow.yml
 
+  dependencies:
+    name: '▶️ actions'
+    needs: [cancel-runs]
+    uses: ./.github/workflows/dependencies.yml
+
   lint-pr:
     name: '▶️ actions'
     needs: [cancel-runs]
