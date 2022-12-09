@@ -25,3 +25,8 @@ jobs:
     name: '▶️ actions'
     needs: [lint-pr]
     uses: ./.github/workflows/lint-code.yml
+
+  codeql:
+    name: '▶️ actions'
+    needs: [lint-code]
+    uses: ./.github/workflows/codeql.yml
