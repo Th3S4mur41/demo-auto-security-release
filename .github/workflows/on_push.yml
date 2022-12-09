@@ -25,3 +25,10 @@ jobs:
     name: '▶️ actions'
     needs: [lint-code]
     uses: ./.github/workflows/codeql.yml
+
+  release:
+    name: '▶️ actions'
+    needs: [lint-code, codeql]
+    uses: ./.github/workflows/release.yml
+    secrets:
+      GH_TOKEN: ${{ secrets.GH_TOKEN }} # Token with repo write permission & admin rights to push to protected branches

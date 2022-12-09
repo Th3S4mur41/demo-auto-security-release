@@ -1,0 +1,53 @@
+# This is the workflow to trigger a release
+#
+name: Semantic release
+
+on:
+  # Allows you to call this workflow from other workflows
+  workflow_call:
+    secrets:
+      NPM_TOKEN:
+        required: false
+      GH_TOKEN:
+        required: false
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  release:
+    name: '🏷️ Release'
+    runs-on: ubuntu-latest
+
+    environment:
+      name: production
+      url: https://github.com/${{ github.repository }}/releases/tag/v${{ steps.release.outputs.version }}
+
+    outputs:
+      version: ${{ steps.release.outputs.version }}
+
+    steps:
+      - name: '☁️ Checkout repository'
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+
+      - name: '⚙️ Use Node.js'
+        uses: actions/setup-node@v3
+        with:
+          check-latest: true
+          cache: 'npm'
+
+      - name: '⛓️ Install dependencies'
+        run: npm ci --omit=optional --audit=false --prefer-offline --progress=false
+
+      - name: '📦 Release'
+        id: release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN || secrets.GITHUB_TOKEN }} # Needed to push to GitHub
+          HUSKY: 0 # disable pre-commit hooks
+        run: |
+          npm run release
+          echo "::set-output name=version::$(npm run env | grep npm_package_version | cut -d '=' -f 2)"
