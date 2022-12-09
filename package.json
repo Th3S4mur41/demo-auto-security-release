@@ -26,7 +26,8 @@
 		"lint:fix": "npm run lint:style:fix",
 		"lint:style": "prettier --check --ignore-unknown .",
 		"lint:style:fix": "prettier --write --ignore-unknown .",
-		"prepare": "husky install"
+		"prepare": "husky install",
+		"release": "npx semantic-release"
 	},
 	"devDependencies": {
 		"@commitlint/cli": "^17.1.2",
