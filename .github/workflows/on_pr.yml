@@ -35,3 +35,13 @@ jobs:
     name: '▶️ actions'
     needs: [lint-code]
     uses: ./.github/workflows/codeql.yml
+
+  build:
+    name: '▶️ actions'
+    needs: [lint-code]
+    uses: ./.github/workflows/npm-build.yml
+
+  test:
+    name: '▶️ actions'
+    needs: [lint-code]
+    uses: ./.github/workflows/npm-test.yml

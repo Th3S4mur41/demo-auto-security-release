@@ -21,13 +21,15 @@
 		"dependencies"
 	],
 	"scripts": {
+		"build": "echo build your package",
 		"git:pre-commit": "npx pretty-quick --staged",
 		"lint": "npm run lint:style",
 		"lint:fix": "npm run lint:style:fix",
 		"lint:style": "prettier --check --ignore-unknown .",
 		"lint:style:fix": "prettier --write --ignore-unknown .",
 		"prepare": "husky install",
-		"release": "npx semantic-release"
+		"release": "npx semantic-release",
+		"test": "echo run the unit tests"
 	},
 	"devDependencies": {
 		"@commitlint/cli": "^17.3.0",
