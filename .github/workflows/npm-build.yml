@@ -10,8 +10,8 @@ on:
   workflow_dispatch:
 
 jobs:
-  lint:
-    name: '🕵️‍♂️ Lint Code'
+  build:
+    name: '🛠️ Build'
     runs-on: ubuntu-latest
 
     steps:
@@ -30,8 +30,5 @@ jobs:
       - name: '⛓️ Install dependencies'
         run: npm ci --omit=optional --audit=false --prefer-offline --progress=false
 
-      - name: '✅ NPM Build'
+      - name: '🛠️ NPM Build'
         run: npm run build
-
-      - name: '✅ NPM Test'
-        run: npm run test
