@@ -1,3 +1,11 @@
+## [1.0.1](https://github.com/Th3S4mur41/demo-auto-security-release/compare/v1.0.0...v1.0.1) (2022-12-12)
+
+
+### Dependencies and Other Build Updates
+
+* **deps:** bump Namchee/conventional-pr from 0.10.1 to 0.12.1 ([#10](https://github.com/Th3S4mur41/demo-auto-security-release/issues/10)) ([63625bf](https://github.com/Th3S4mur41/demo-auto-security-release/commit/63625bf149825abf7a0dbf7e044083037b4c9ca3))
+* **deps:** bump Namchee/conventional-pr from 0.10.1 to 0.12.1 ([#10](https://github.com/Th3S4mur41/demo-auto-security-release/issues/10)) ([76c7a74](https://github.com/Th3S4mur41/demo-auto-security-release/commit/76c7a743243bb8a7be898dcf20fb5b5e0fcc149a))
+
 ## 1.0.0 (2022-12-09)
 
 
