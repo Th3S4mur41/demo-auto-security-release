@@ -1,3 +1,14 @@
+## [1.0.5](https://github.com/Th3S4mur41/demo-auto-security-release/compare/v1.0.4...v1.0.5) (2023-10-03)
+
+
+### Dependencies and Other Build Updates
+
+* **deps-dev:** Bump @commitlint/cli from 17.7.1 to 17.7.2 ([#73](https://github.com/Th3S4mur41/demo-auto-security-release/issues/73)) ([c91a9ad](https://github.com/Th3S4mur41/demo-auto-security-release/commit/c91a9ad5743608eb6e218d3e4caa564d6aa10fdd))
+* **deps-dev:** Bump semantic-release from 21.1.1 to 22.0.0 ([#70](https://github.com/Th3S4mur41/demo-auto-security-release/issues/70)) ([218e879](https://github.com/Th3S4mur41/demo-auto-security-release/commit/218e879d6248a5eede80d1dae21ec971ab5cf98d)), closes [#2956](https://github.com/Th3S4mur41/demo-auto-security-release/issues/2956) [#2934](https://github.com/Th3S4mur41/demo-auto-security-release/issues/2934) [#2961](https://github.com/Th3S4mur41/demo-auto-security-release/issues/2961) [#2956](https://github.com/Th3S4mur41/demo-auto-security-release/issues/2956)
+* **deps-dev:** Bump semantic-release from 22.0.0 to 22.0.1 ([#71](https://github.com/Th3S4mur41/demo-auto-security-release/issues/71)) ([957d2ba](https://github.com/Th3S4mur41/demo-auto-security-release/commit/957d2bacc24b81947d228c947fa98b4610be5f26))
+* **deps-dev:** Bump semantic-release from 22.0.1 to 22.0.5 ([#72](https://github.com/Th3S4mur41/demo-auto-security-release/issues/72)) ([b260d3f](https://github.com/Th3S4mur41/demo-auto-security-release/commit/b260d3fafe3ed5dea54c8bffea43ee2472dfc379))
+* **deps:** Bump styfle/cancel-workflow-action from 0.11.0 to 0.12.0 ([#74](https://github.com/Th3S4mur41/demo-auto-security-release/issues/74)) ([6979632](https://github.com/Th3S4mur41/demo-auto-security-release/commit/6979632fcaa8e376c55959a32a9cccf683ddb898))
+
 ## [1.0.4](https://github.com/Th3S4mur41/demo-auto-security-release/compare/v1.0.3...v1.0.4) (2023-09-07)
 
 
