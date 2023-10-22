@@ -1,3 +1,12 @@
+## [1.0.6](https://github.com/Th3S4mur41/demo-auto-security-release/compare/v1.0.5...v1.0.6) (2023-10-22)
+
+
+### Dependencies and Other Build Updates
+
+* **deps-dev:** Bump @commitlint/cli from 17.7.2 to 17.8.0 ([#76](https://github.com/Th3S4mur41/demo-auto-security-release/issues/76)) ([31bf581](https://github.com/Th3S4mur41/demo-auto-security-release/commit/31bf581c2316e20fe8994f425e62ca4e4ef76a5d))
+* **deps-dev:** Bump @commitlint/config-conventional from 17.7.0 to 17.8.0 ([#75](https://github.com/Th3S4mur41/demo-auto-security-release/issues/75)) ([7c73598](https://github.com/Th3S4mur41/demo-auto-security-release/commit/7c735981a50913bd691737a9c8a8b3fae78bc416))
+* **deps:** Bump Namchee/conventional-pr from 0.14.0 to 0.14.1 ([#77](https://github.com/Th3S4mur41/demo-auto-security-release/issues/77)) ([7db14d0](https://github.com/Th3S4mur41/demo-auto-security-release/commit/7db14d0331e548c444cc2db43f45a29560f356f0))
+
 ## [1.0.5](https://github.com/Th3S4mur41/demo-auto-security-release/compare/v1.0.4...v1.0.5) (2023-10-03)
 
 
