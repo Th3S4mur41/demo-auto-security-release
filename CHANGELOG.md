@@ -1,3 +1,15 @@
+## [1.0.8](https://github.com/Th3S4mur41/demo-auto-security-release/compare/v1.0.7...v1.0.8) (2023-10-30)
+
+
+### Dependencies and Other Build Updates
+
+* **deps-dev:** Bump @commitlint/cli from 17.8.0 to 18.0.0 ([#79](https://github.com/Th3S4mur41/demo-auto-security-release/issues/79)) ([5a0928c](https://github.com/Th3S4mur41/demo-auto-security-release/commit/5a0928cae4d26a3755691e00f65298e74bf0ed4e)), closes [#3644](https://github.com/Th3S4mur41/demo-auto-security-release/issues/3644) [#3644](https://github.com/Th3S4mur41/demo-auto-security-release/issues/3644) [conventional-changelog/commitlint#3700](https://github.com/conventional-changelog/commitlint/issues/3700) [#3644](https://github.com/Th3S4mur41/demo-auto-security-release/issues/3644) [#3644](https://github.com/Th3S4mur41/demo-auto-security-release/issues/3644) [#3644](https://github.com/Th3S4mur41/demo-auto-security-release/issues/3644) [#3700](https://github.com/Th3S4mur41/demo-auto-security-release/issues/3700)
+* **deps-dev:** Bump @commitlint/cli from 18.0.0 to 18.1.0 ([#81](https://github.com/Th3S4mur41/demo-auto-security-release/issues/81)) ([c1d4cb2](https://github.com/Th3S4mur41/demo-auto-security-release/commit/c1d4cb2399b1efdb6a493253f107c4c491b3b3a8))
+* **deps-dev:** Bump @commitlint/cli from 18.1.0 to 18.2.0 ([#83](https://github.com/Th3S4mur41/demo-auto-security-release/issues/83)) ([2089685](https://github.com/Th3S4mur41/demo-auto-security-release/commit/2089685d220e6164a57106ba3d49007de4396d5c))
+* **deps-dev:** Bump @commitlint/config-conventional from 17.8.0 to 18.0.0 ([#78](https://github.com/Th3S4mur41/demo-auto-security-release/issues/78)) ([04d3c5d](https://github.com/Th3S4mur41/demo-auto-security-release/commit/04d3c5df23e48c8770a411ff3cc51ac7ed03800e)), closes [#3644](https://github.com/Th3S4mur41/demo-auto-security-release/issues/3644) [#3644](https://github.com/Th3S4mur41/demo-auto-security-release/issues/3644) [conventional-changelog/commitlint#3700](https://github.com/conventional-changelog/commitlint/issues/3700) [#3644](https://github.com/Th3S4mur41/demo-auto-security-release/issues/3644) [#3644](https://github.com/Th3S4mur41/demo-auto-security-release/issues/3644) [#3644](https://github.com/Th3S4mur41/demo-auto-security-release/issues/3644)
+* **deps-dev:** Bump @commitlint/config-conventional from 18.0.0 to 18.1.0 ([#82](https://github.com/Th3S4mur41/demo-auto-security-release/issues/82)) ([f081b5f](https://github.com/Th3S4mur41/demo-auto-security-release/commit/f081b5fe7e1b5984868c01136c516fb493bb6e79))
+* **deps:** Bump Namchee/conventional-pr from 0.14.1 to 0.15.1 ([#84](https://github.com/Th3S4mur41/demo-auto-security-release/issues/84)) ([af20489](https://github.com/Th3S4mur41/demo-auto-security-release/commit/af2048912d98e3ba2965c8e55843b878c5874835))
+
 ## [1.0.7](https://github.com/Th3S4mur41/demo-auto-security-release/compare/v1.0.6...v1.0.7) (2023-10-24)
 
 
