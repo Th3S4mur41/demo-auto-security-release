@@ -1,3 +1,25 @@
+## [1.0.9](https://github.com/Th3S4mur41/demo-auto-security-release/compare/v1.0.8...v1.0.9) (2023-12-20)
+
+
+### Dependencies and Other Build Updates
+
+* **deps-dev:** Bump @commitlint/cli from 18.2.0 to 18.4.1 ([#88](https://github.com/Th3S4mur41/demo-auto-security-release/issues/88)) ([7e7732f](https://github.com/Th3S4mur41/demo-auto-security-release/commit/7e7732ffa8e87320b5e2bc93889e1ec1d001eb92))
+* **deps-dev:** Bump @commitlint/cli from 18.4.1 to 18.4.2 ([#91](https://github.com/Th3S4mur41/demo-auto-security-release/issues/91)) ([fdb390d](https://github.com/Th3S4mur41/demo-auto-security-release/commit/fdb390d73abee592aa6739c0ced50fd23a636eb6))
+* **deps-dev:** Bump @commitlint/cli from 18.4.2 to 18.4.3 ([#93](https://github.com/Th3S4mur41/demo-auto-security-release/issues/93)) ([e052840](https://github.com/Th3S4mur41/demo-auto-security-release/commit/e052840fd3958904fd9ba41711ef5f23cbf8b6a8))
+* **deps-dev:** Bump @commitlint/config-conventional from 18.1.0 to 18.4.0 ([#87](https://github.com/Th3S4mur41/demo-auto-security-release/issues/87)) ([5288e93](https://github.com/Th3S4mur41/demo-auto-security-release/commit/5288e9379e52527b087dcac18dda0a490dbbf379))
+* **deps-dev:** Bump @commitlint/config-conventional from 18.4.0 to 18.4.2 ([#90](https://github.com/Th3S4mur41/demo-auto-security-release/issues/90)) ([26a0d5c](https://github.com/Th3S4mur41/demo-auto-security-release/commit/26a0d5ceb91e14f7293d14dc2f6fe062a0feae78))
+* **deps-dev:** Bump @commitlint/config-conventional from 18.4.2 to 18.4.3 ([#94](https://github.com/Th3S4mur41/demo-auto-security-release/issues/94)) ([c71dbcd](https://github.com/Th3S4mur41/demo-auto-security-release/commit/c71dbcdf96c55fddda14e195312751444ec4e8a7))
+* **deps-dev:** Bump prettier from 3.0.3 to 3.1.0 ([#89](https://github.com/Th3S4mur41/demo-auto-security-release/issues/89)) ([df45049](https://github.com/Th3S4mur41/demo-auto-security-release/commit/df450490e39eb1d045e95f3b36a3901d48440ae0))
+* **deps-dev:** Bump prettier from 3.1.0 to 3.1.1 ([#97](https://github.com/Th3S4mur41/demo-auto-security-release/issues/97)) ([9786389](https://github.com/Th3S4mur41/demo-auto-security-release/commit/978638904c38e48c720ad79586a504174adbbe55))
+* **deps-dev:** Bump semantic-release from 22.0.10 to 22.0.11 ([#98](https://github.com/Th3S4mur41/demo-auto-security-release/issues/98)) ([9a690b1](https://github.com/Th3S4mur41/demo-auto-security-release/commit/9a690b10f5422106e07ac2a189f2ae1da5628980))
+* **deps-dev:** Bump semantic-release from 22.0.11 to 22.0.12 ([#99](https://github.com/Th3S4mur41/demo-auto-security-release/issues/99)) ([cb094e9](https://github.com/Th3S4mur41/demo-auto-security-release/commit/cb094e9a8e1c0b69917ee0b80ac20be12d26c7d8))
+* **deps-dev:** Bump semantic-release from 22.0.5 to 22.0.6 ([#85](https://github.com/Th3S4mur41/demo-auto-security-release/issues/85)) ([52c5e1e](https://github.com/Th3S4mur41/demo-auto-security-release/commit/52c5e1e9617a31b7580090c7f2e3d82d60c2744e))
+* **deps-dev:** Bump semantic-release from 22.0.6 to 22.0.7 ([#86](https://github.com/Th3S4mur41/demo-auto-security-release/issues/86)) ([a4c3454](https://github.com/Th3S4mur41/demo-auto-security-release/commit/a4c3454fd559c7f7db459ec245361bee725efe47))
+* **deps-dev:** Bump semantic-release from 22.0.7 to 22.0.8 ([#92](https://github.com/Th3S4mur41/demo-auto-security-release/issues/92)) ([e2246ea](https://github.com/Th3S4mur41/demo-auto-security-release/commit/e2246eac8f1b5997232dd41a1a4d9272446eda8b))
+* **deps-dev:** Bump semantic-release from 22.0.8 to 22.0.9 ([#95](https://github.com/Th3S4mur41/demo-auto-security-release/issues/95)) ([d31f677](https://github.com/Th3S4mur41/demo-auto-security-release/commit/d31f67701adf523836816f69d8b1d22bdd16f5c5))
+* **deps-dev:** Bump semantic-release from 22.0.9 to 22.0.10 ([#96](https://github.com/Th3S4mur41/demo-auto-security-release/issues/96)) ([eacaea4](https://github.com/Th3S4mur41/demo-auto-security-release/commit/eacaea431fc12ad8ee85d11ab4c7466f3d60cc54))
+* **deps:** Bump Namchee/conventional-pr from 0.15.1 to 0.15.4 ([#101](https://github.com/Th3S4mur41/demo-auto-security-release/issues/101)) ([7a81781](https://github.com/Th3S4mur41/demo-auto-security-release/commit/7a81781359cc1d112206de5c1cd8efe559219cdc))
+
 ## [1.0.8](https://github.com/Th3S4mur41/demo-auto-security-release/compare/v1.0.7...v1.0.8) (2023-10-30)
 
 
