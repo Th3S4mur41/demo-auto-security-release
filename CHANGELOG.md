@@ -1,3 +1,10 @@
+## [1.0.10](https://github.com/Th3S4mur41/demo-auto-security-release/compare/v1.0.9...v1.0.10) (2023-12-21)
+
+
+### Dependencies and Other Build Updates
+
+* **deps:** Bump github/codeql-action from 2 to 3 ([#100](https://github.com/Th3S4mur41/demo-auto-security-release/issues/100)) ([77c6588](https://github.com/Th3S4mur41/demo-auto-security-release/commit/77c6588fc40c805537a92c83fe26954bf7ef3637)), closes [#2021](https://github.com/Th3S4mur41/demo-auto-security-release/issues/2021)
+
 ## [1.0.9](https://github.com/Th3S4mur41/demo-auto-security-release/compare/v1.0.8...v1.0.9) (2023-12-20)
 
 
