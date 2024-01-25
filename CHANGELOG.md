@@ -1,3 +1,14 @@
+## [1.0.12](https://github.com/Th3S4mur41/demo-auto-security-release/compare/v1.0.11...v1.0.12) (2024-01-25)
+
+
+### Dependencies and Other Build Updates
+
+* **deps-dev:** Bump @commitlint/cli from 18.4.4 to 18.5.0 ([#109](https://github.com/Th3S4mur41/demo-auto-security-release/issues/109)) ([eb72d7c](https://github.com/Th3S4mur41/demo-auto-security-release/commit/eb72d7c50e91b10dd9fdd26a4a41cb3a1ef9b3a7))
+* **deps-dev:** Bump @commitlint/cli from 18.5.0 to 18.6.0 ([#113](https://github.com/Th3S4mur41/demo-auto-security-release/issues/113)) ([60e6223](https://github.com/Th3S4mur41/demo-auto-security-release/commit/60e6223332c435d19ab209e19e150d0a10d4940e))
+* **deps-dev:** Bump @commitlint/config-conventional from 18.4.4 to 18.5.0 ([#110](https://github.com/Th3S4mur41/demo-auto-security-release/issues/110)) ([258d655](https://github.com/Th3S4mur41/demo-auto-security-release/commit/258d6553301fd90fb7d460bd2ee1cdb3df723e57))
+* **deps-dev:** Bump @commitlint/config-conventional from 18.5.0 to 18.6.0 ([#112](https://github.com/Th3S4mur41/demo-auto-security-release/issues/112)) ([b7e50c7](https://github.com/Th3S4mur41/demo-auto-security-release/commit/b7e50c75a21cb27f7e90a601139f5d930a4b98d1))
+* **deps:** Bump styfle/cancel-workflow-action from 0.12.0 to 0.12.1 ([#114](https://github.com/Th3S4mur41/demo-auto-security-release/issues/114)) ([de1b156](https://github.com/Th3S4mur41/demo-auto-security-release/commit/de1b156ff34f4605d879b93c038f70dea03bc283))
+
 ## [1.0.11](https://github.com/Th3S4mur41/demo-auto-security-release/compare/v1.0.10...v1.0.11) (2024-01-19)
 
 

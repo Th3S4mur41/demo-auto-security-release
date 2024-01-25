@@ -1,6 +1,6 @@
 {
 	"name": "demo-auto-security-release",
-	"version": "1.0.11",
+	"version": "1.0.12",
 	"description": "Demo on how to use Github Actions to automatically release fixes for dependency vulnerabilities",
 	"private": true,
 	"license": "LICENSE",
