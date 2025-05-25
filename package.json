@@ -39,6 +39,6 @@
 		"husky": "^9.1.7",
 		"prettier": "^3.5.3",
 		"pretty-quick": "^4.1.1",
-		"semantic-release": "^24.2.4"
+		"semantic-release": "^24.2.5"
 	}
 }
