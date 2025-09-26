@@ -7,4 +7,3 @@
 - Follow the rules configured in commitlint.config.js
 - Include scope when relevant (e.g., api, ui, auth).
 - Optionally add a body with details and reference issues with `#<number>` when applicable.
-- 
