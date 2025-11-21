@@ -1,3 +1,10 @@
+## <small>1.0.14 (2025-11-21)</small>
+
+* build(deps-dev): Bump js-yaml from 4.1.0 to 4.1.1 (#208) ([bc3d9ab](https://github.com/Th3S4mur41/demo-auto-security-release/commit/bc3d9ab)), closes [#208](https://github.com/Th3S4mur41/demo-auto-security-release/issues/208)
+* build(deps-dev): Bump semantic-release from 25.0.0 to 25.0.1 (#206) ([26b1739](https://github.com/Th3S4mur41/demo-auto-security-release/commit/26b1739)), closes [#206](https://github.com/Th3S4mur41/demo-auto-security-release/issues/206)
+* build(deps-dev): Bump semantic-release from 25.0.1 to 25.0.2 (#207) ([f3af270](https://github.com/Th3S4mur41/demo-auto-security-release/commit/f3af270)), closes [#207](https://github.com/Th3S4mur41/demo-auto-security-release/issues/207)
+* build(deps): Bump actions/checkout from 5 to 6 (#209) ([b6290d7](https://github.com/Th3S4mur41/demo-auto-security-release/commit/b6290d7)), closes [#209](https://github.com/Th3S4mur41/demo-auto-security-release/issues/209)
+
 ## <small>1.0.13 (2025-10-16)</small>
 
 * build(deps-dev): Bump @commitlint/cli from 18.6.0 to 18.6.1 (#123) ([6c10c9a](https://github.com/Th3S4mur41/demo-auto-security-release/commit/6c10c9a)), closes [#123](https://github.com/Th3S4mur41/demo-auto-security-release/issues/123)
