@@ -1,3 +1,9 @@
+## <small>1.0.15 (2025-12-01)</small>
+
+* build(deps-dev): Bump prettier from 3.6.2 to 3.7.1 (#210) ([7fce178](https://github.com/Th3S4mur41/demo-auto-security-release/commit/7fce178)), closes [#210](https://github.com/Th3S4mur41/demo-auto-security-release/issues/210)
+* build(deps-dev): Bump prettier from 3.7.1 to 3.7.3 (#211) ([03b5b7e](https://github.com/Th3S4mur41/demo-auto-security-release/commit/03b5b7e)), closes [#211](https://github.com/Th3S4mur41/demo-auto-security-release/issues/211)
+* build(deps): Bump tar and npm (#212) ([a1c0ca8](https://github.com/Th3S4mur41/demo-auto-security-release/commit/a1c0ca8)), closes [#212](https://github.com/Th3S4mur41/demo-auto-security-release/issues/212)
+
 ## <small>1.0.14 (2025-11-21)</small>
 
 * build(deps-dev): Bump js-yaml from 4.1.0 to 4.1.1 (#208) ([bc3d9ab](https://github.com/Th3S4mur41/demo-auto-security-release/commit/bc3d9ab)), closes [#208](https://github.com/Th3S4mur41/demo-auto-security-release/issues/208)
