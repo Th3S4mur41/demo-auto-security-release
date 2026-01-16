@@ -1,3 +1,12 @@
+## <small>1.0.16 (2026-01-16)</small>
+
+* build(deps-dev): Bump prettier from 3.7.3 to 3.7.4 (#213) ([d527fbb](https://github.com/Th3S4mur41/demo-auto-security-release/commit/d527fbb)), closes [#213](https://github.com/Th3S4mur41/demo-auto-security-release/issues/213)
+* build(deps-dev): Bump prettier from 3.7.4 to 3.8.0 (#218) ([8919a38](https://github.com/Th3S4mur41/demo-auto-security-release/commit/8919a38)), closes [#218](https://github.com/Th3S4mur41/demo-auto-security-release/issues/218)
+* build(deps-dev): Bump the commitlint group with 2 updates (#214) ([f549150](https://github.com/Th3S4mur41/demo-auto-security-release/commit/f549150)), closes [#214](https://github.com/Th3S4mur41/demo-auto-security-release/issues/214)
+* build(deps-dev): Bump the commitlint group with 2 updates (#215) ([888dca3](https://github.com/Th3S4mur41/demo-auto-security-release/commit/888dca3)), closes [#215](https://github.com/Th3S4mur41/demo-auto-security-release/issues/215)
+* build(deps-dev): Bump the commitlint group with 2 updates (#216) ([3e2fdf3](https://github.com/Th3S4mur41/demo-auto-security-release/commit/3e2fdf3)), closes [#216](https://github.com/Th3S4mur41/demo-auto-security-release/issues/216)
+* build(deps): Bump styfle/cancel-workflow-action from 0.12.1 to 0.13.0 (#217) ([a4470db](https://github.com/Th3S4mur41/demo-auto-security-release/commit/a4470db)), closes [#217](https://github.com/Th3S4mur41/demo-auto-security-release/issues/217)
+
 ## <small>1.0.15 (2025-12-01)</small>
 
 * build(deps-dev): Bump prettier from 3.6.2 to 3.7.1 (#210) ([7fce178](https://github.com/Th3S4mur41/demo-auto-security-release/commit/7fce178)), closes [#210](https://github.com/Th3S4mur41/demo-auto-security-release/issues/210)
