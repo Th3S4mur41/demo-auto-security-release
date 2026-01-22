@@ -1,3 +1,10 @@
+## <small>1.0.17 (2026-01-22)</small>
+
+* build(deps-dev): Bump lodash-es from 4.17.21 to 4.17.23 (#220) ([2cc4e44](https://github.com/Th3S4mur41/demo-auto-security-release/commit/2cc4e44)), closes [#220](https://github.com/Th3S4mur41/demo-auto-security-release/issues/220)
+* build(deps-dev): Bump prettier from 3.8.0 to 3.8.1 (#219) ([59b592a](https://github.com/Th3S4mur41/demo-auto-security-release/commit/59b592a)), closes [#219](https://github.com/Th3S4mur41/demo-auto-security-release/issues/219)
+* build(deps): Bump lodash from 4.17.21 to 4.17.23 (#222) ([29563b8](https://github.com/Th3S4mur41/demo-auto-security-release/commit/29563b8)), closes [#222](https://github.com/Th3S4mur41/demo-auto-security-release/issues/222)
+* build(deps): Bump tar and npm (#221) ([bf7801b](https://github.com/Th3S4mur41/demo-auto-security-release/commit/bf7801b)), closes [#221](https://github.com/Th3S4mur41/demo-auto-security-release/issues/221)
+
 ## <small>1.0.16 (2026-01-16)</small>
 
 * build(deps-dev): Bump prettier from 3.7.3 to 3.7.4 (#213) ([d527fbb](https://github.com/Th3S4mur41/demo-auto-security-release/commit/d527fbb)), closes [#213](https://github.com/Th3S4mur41/demo-auto-security-release/issues/213)
