@@ -1,3 +1,13 @@
+## [1.0.18](https://github.com/Th3S4mur41/demo-auto-security-release/compare/v1.0.17...v1.0.18) (2026-02-20)
+
+### Dependencies and Other Build Updates
+
+* **deps-dev:** Bump semantic-release from 25.0.2 to 25.0.3 ([#224](https://github.com/Th3S4mur41/demo-auto-security-release/issues/224)) ([4396c47](https://github.com/Th3S4mur41/demo-auto-security-release/commit/4396c4789e4b4456d4e6968bb7dd4977a7ddfd0a))
+* **deps-dev:** Bump the commitlint group with 2 updates ([#223](https://github.com/Th3S4mur41/demo-auto-security-release/issues/223)) ([5229bae](https://github.com/Th3S4mur41/demo-auto-security-release/commit/5229bae72df11f7c40e2fafcad48d7518badddf3))
+* **deps-dev:** Bump the commitlint group with 2 updates ([#225](https://github.com/Th3S4mur41/demo-auto-security-release/issues/225)) ([c05866b](https://github.com/Th3S4mur41/demo-auto-security-release/commit/c05866bfc0c8eeee255a049bf2dea5ac4ce1ba48))
+* **deps-dev:** Bump the commitlint group with 2 updates ([#226](https://github.com/Th3S4mur41/demo-auto-security-release/issues/226)) ([ce7885f](https://github.com/Th3S4mur41/demo-auto-security-release/commit/ce7885fb69324cfd4d3f70d13966da24b194c279))
+* **deps:** Bump tar and npm ([#227](https://github.com/Th3S4mur41/demo-auto-security-release/issues/227)) ([af3a211](https://github.com/Th3S4mur41/demo-auto-security-release/commit/af3a211b1cc5a197ddea04195c642a53cb4f13ec))
+
 ## <small>1.0.17 (2026-01-22)</small>
 
 * build(deps-dev): Bump lodash-es from 4.17.21 to 4.17.23 (#220) ([2cc4e44](https://github.com/Th3S4mur41/demo-auto-security-release/commit/2cc4e44)), closes [#220](https://github.com/Th3S4mur41/demo-auto-security-release/issues/220)
