@@ -1,3 +1,9 @@
+## [1.0.20](https://github.com/Th3S4mur41/demo-auto-security-release/compare/v1.0.19...v1.0.20) (2026-03-12)
+
+### Dependencies and Other Build Updates
+
+* **deps:** Bump styfle/cancel-workflow-action from 0.13.0 to 0.13.1 ([#230](https://github.com/Th3S4mur41/demo-auto-security-release/issues/230)) ([607d4f1](https://github.com/Th3S4mur41/demo-auto-security-release/commit/607d4f1c3b1919e543d5d3629859fec126f31a77))
+
 ## [1.0.19](https://github.com/Th3S4mur41/demo-auto-security-release/compare/v1.0.18...v1.0.19) (2026-03-12)
 
 ### Dependencies and Other Build Updates
