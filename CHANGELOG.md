@@ -1,3 +1,10 @@
+## [1.0.19](https://github.com/Th3S4mur41/demo-auto-security-release/compare/v1.0.18...v1.0.19) (2026-03-12)
+
+### Dependencies and Other Build Updates
+
+* **deps-dev:** Bump the commitlint group with 2 updates ([#228](https://github.com/Th3S4mur41/demo-auto-security-release/issues/228)) ([0ac2571](https://github.com/Th3S4mur41/demo-auto-security-release/commit/0ac25713c5eba77b5bcf7c9c1b63fd900c202b6b))
+* **deps:** Bump tar and npm ([#229](https://github.com/Th3S4mur41/demo-auto-security-release/issues/229)) ([511d2fd](https://github.com/Th3S4mur41/demo-auto-security-release/commit/511d2fd9c43f6bb7c110355d7ff8671203a2c5eb))
+
 ## [1.0.18](https://github.com/Th3S4mur41/demo-auto-security-release/compare/v1.0.17...v1.0.18) (2026-02-20)
 
 ### Dependencies and Other Build Updates
