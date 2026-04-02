@@ -1,3 +1,11 @@
+## [1.0.22](https://github.com/Th3S4mur41/demo-auto-security-release/compare/v1.0.21...v1.0.22) (2026-04-02)
+
+### Dependencies and Other Build Updates
+
+* **deps-dev:** Bump handlebars from 4.7.8 to 4.7.9 ([#234](https://github.com/Th3S4mur41/demo-auto-security-release/issues/234)) ([58f32fd](https://github.com/Th3S4mur41/demo-auto-security-release/commit/58f32fdebd16f12963d606072acdb0c8708305fd))
+* **deps-dev:** Bump lodash-es from 4.17.23 to 4.18.1 ([#235](https://github.com/Th3S4mur41/demo-auto-security-release/issues/235)) ([914d0b7](https://github.com/Th3S4mur41/demo-auto-security-release/commit/914d0b740472dc8dba64650a571795fd2ebbb91f))
+* **deps:** Bump lodash from 4.17.23 to 4.18.1 ([#236](https://github.com/Th3S4mur41/demo-auto-security-release/issues/236)) ([27d0bce](https://github.com/Th3S4mur41/demo-auto-security-release/commit/27d0bce38619ec60af61a65e95f75c236e32250c))
+
 ## [1.0.21](https://github.com/Th3S4mur41/demo-auto-security-release/compare/v1.0.20...v1.0.21) (2026-03-26)
 
 ### Dependencies and Other Build Updates
