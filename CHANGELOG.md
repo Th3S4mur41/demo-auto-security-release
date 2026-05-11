@@ -1,3 +1,14 @@
+## [1.0.23](https://github.com/Th3S4mur41/demo-auto-security-release/compare/v1.0.22...v1.0.23) (2026-05-11)
+
+### Dependencies and Other Build Updates
+
+* **deps-dev:** Bump @commitlint/cli from 20.5.0 to 20.5.2 in the commitlint group ([#239](https://github.com/Th3S4mur41/demo-auto-security-release/issues/239)) ([743ef75](https://github.com/Th3S4mur41/demo-auto-security-release/commit/743ef752b122caa83a909a8ba89289eb2014fbdc))
+* **deps-dev:** Bump fast-uri from 3.1.0 to 3.1.2 ([#241](https://github.com/Th3S4mur41/demo-auto-security-release/issues/241)) ([0a79af6](https://github.com/Th3S4mur41/demo-auto-security-release/commit/0a79af6f190540aa9da158e07a63db0dbe2a2d04))
+* **deps-dev:** Bump prettier from 3.8.1 to 3.8.2 ([#237](https://github.com/Th3S4mur41/demo-auto-security-release/issues/237)) ([ef3aec4](https://github.com/Th3S4mur41/demo-auto-security-release/commit/ef3aec4f59aaaa6244349ba5e4f46d4486c2cfa2))
+* **deps-dev:** Bump prettier from 3.8.2 to 3.8.3 ([#238](https://github.com/Th3S4mur41/demo-auto-security-release/issues/238)) ([787fe5d](https://github.com/Th3S4mur41/demo-auto-security-release/commit/787fe5d9e06b0354a98d7f88c501533576f50cb1))
+* **deps-dev:** Bump the commitlint group with 2 updates ([#240](https://github.com/Th3S4mur41/demo-auto-security-release/issues/240)) ([af91a18](https://github.com/Th3S4mur41/demo-auto-security-release/commit/af91a18d962d09a5269b3524cba269471842e9ac))
+* **deps:** Bump actions/dependency-review-action from 4 to 5 ([#242](https://github.com/Th3S4mur41/demo-auto-security-release/issues/242)) ([1255665](https://github.com/Th3S4mur41/demo-auto-security-release/commit/125566553c4b298f52fc93dd1c3b2f252225bb46))
+
 ## [1.0.22](https://github.com/Th3S4mur41/demo-auto-security-release/compare/v1.0.21...v1.0.22) (2026-04-02)
 
 ### Dependencies and Other Build Updates
