@@ -1,3 +1,12 @@
+## [1.0.24](https://github.com/Th3S4mur41/demo-auto-security-release/compare/v1.0.23...v1.0.24) (2026-06-07)
+
+### Dependencies and Other Build Updates
+
+* **deps-dev:** Bump the commitlint group across 1 directory with 2 updates ([#243](https://github.com/Th3S4mur41/demo-auto-security-release/issues/243)) ([4007568](https://github.com/Th3S4mur41/demo-auto-security-release/commit/4007568dc9c3eebd71fd785cfe4d785b86167496))
+* **deps-dev:** Bump the commitlint group with 2 updates ([#244](https://github.com/Th3S4mur41/demo-auto-security-release/issues/244)) ([99dad4e](https://github.com/Th3S4mur41/demo-auto-security-release/commit/99dad4efa7207d72134bfddbd7e5fbd9156c70af))
+* **deps-dev:** Bump the commitlint group with 2 updates ([#245](https://github.com/Th3S4mur41/demo-auto-security-release/issues/245)) ([54c81e3](https://github.com/Th3S4mur41/demo-auto-security-release/commit/54c81e36f1948a78372164f06aeab4054ca91be7))
+* **deps:** Bump Namchee/conventional-pr from 0.15.6 to 0.16.0 ([#246](https://github.com/Th3S4mur41/demo-auto-security-release/issues/246)) ([a8507eb](https://github.com/Th3S4mur41/demo-auto-security-release/commit/a8507eb428fc7fc46f183f2a53b18ae7f1768b93))
+
 ## [1.0.23](https://github.com/Th3S4mur41/demo-auto-security-release/compare/v1.0.22...v1.0.23) (2026-05-11)
 
 ### Dependencies and Other Build Updates
