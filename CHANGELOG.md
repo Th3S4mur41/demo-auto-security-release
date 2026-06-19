@@ -1,3 +1,11 @@
+## [1.0.25](https://github.com/Th3S4mur41/demo-auto-security-release/compare/v1.0.24...v1.0.25) (2026-06-19)
+
+### Dependencies and Other Build Updates
+
+* **deps-dev:** Bump prettier from 3.8.3 to 3.8.4 ([#247](https://github.com/Th3S4mur41/demo-auto-security-release/issues/247)) ([781c8b8](https://github.com/Th3S4mur41/demo-auto-security-release/commit/781c8b8dc46fe44d6efc55d5e8597069442b998d))
+* **deps-dev:** Bump semantic-release from 25.0.3 to 25.0.5 ([#248](https://github.com/Th3S4mur41/demo-auto-security-release/issues/248)) ([a3c0a4a](https://github.com/Th3S4mur41/demo-auto-security-release/commit/a3c0a4aea7766a70d769bf01272ea5fbeb7c855e))
+* **deps:** Bump actions/checkout from 6 to 7 ([#249](https://github.com/Th3S4mur41/demo-auto-security-release/issues/249)) ([32ff98b](https://github.com/Th3S4mur41/demo-auto-security-release/commit/32ff98bf211d63cce6614ca02e0db5d8b5355517))
+
 ## [1.0.24](https://github.com/Th3S4mur41/demo-auto-security-release/compare/v1.0.23...v1.0.24) (2026-06-07)
 
 ### Dependencies and Other Build Updates
