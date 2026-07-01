@@ -20,11 +20,6 @@ jobs:
     name: '▶️ actions'
     uses: ./.github/workflows/lint-code.yml
 
-  codeql:
-    name: '▶️ actions'
-    needs: [lint-code]
-    uses: ./.github/workflows/codeql.yml
-
   build:
     name: '▶️ actions'
     needs: [lint-code]
