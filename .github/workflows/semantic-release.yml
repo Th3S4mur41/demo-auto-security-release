@@ -14,10 +14,21 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
+permissions:
+  contents: read
+
 jobs:
   release:
     name: '🏷️ Release'
     runs-on: ubuntu-latest
+
+    permissions:
+      attestations: write
+      contents: write
+      issues: write
+      pull-requests: write
+      packages: write
+      id-token: write
 
     environment:
       name: production

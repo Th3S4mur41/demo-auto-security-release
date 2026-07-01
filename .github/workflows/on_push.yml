@@ -15,6 +15,9 @@ concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
 
+permissions:
+  contents: read
+
 jobs:
   lint-code:
     name: '▶️ actions'
@@ -36,3 +39,10 @@ jobs:
     uses: ./.github/workflows/semantic-release.yml
     secrets:
       GH_TOKEN: ${{ secrets.GH_TOKEN }} # Token with repo write permission & admin rights to push to protected branches
+    permissions:
+      attestations: write
+      contents: write
+      issues: write
+      pull-requests: write
+      packages: write
+      id-token: write
