@@ -27,7 +27,7 @@
 		"lint:fix": "npm run lint:style:fix",
 		"lint:style": "prettier --check --ignore-unknown .",
 		"lint:style:fix": "prettier --write --ignore-unknown .",
-		"prepare": "husky install",
+		"prepare": "husky",
 		"release": "npx semantic-release",
 		"test": "echo run the unit tests"
 	},
