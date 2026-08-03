@@ -1,3 +1,5 @@
+## [1.0.26](https://github.com/Th3S4mur41/demo-auto-security-release/compare/v1.0.25...v1.0.26) (2026-08-03)
+
 ## [1.0.25](https://github.com/Th3S4mur41/demo-auto-security-release/compare/v1.0.24...v1.0.25) (2026-06-19)
 
 ### Dependencies and Other Build Updates
