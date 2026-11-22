@@ -1,3 +1,15 @@
+## [1.0.28](https://github.com/Th3S4mur41/demo-auto-security-release/compare/v1.0.27...v1.0.28) (2026-11-22)
+
+### Dependencies and Other Build Updates
+
+* **deps-dev:** Bump fast-uri from 3.1.8 to 3.1.9 ([#280](https://github.com/Th3S4mur41/demo-auto-security-release/issues/280)) ([e34a8fe](https://github.com/Th3S4mur41/demo-auto-security-release/commit/e34a8fe38e997dd9b8a78c3554d07bc637b9871e))
+* **deps-dev:** Bump handlebars from 4.7.9 to 4.7.10 ([#277](https://github.com/Th3S4mur41/demo-auto-security-release/issues/277)) ([4c7e257](https://github.com/Th3S4mur41/demo-auto-security-release/commit/4c7e2573765588ea8bfdad142c11df7a83ed3d9e))
+* **deps-dev:** Bump prettier from 3.9.10 to 3.10.1 ([#281](https://github.com/Th3S4mur41/demo-auto-security-release/issues/281)) ([c8869f7](https://github.com/Th3S4mur41/demo-auto-security-release/commit/c8869f78c9140dd3e911bb03f290fb17db2a6472))
+* **deps-dev:** Bump prettier from 3.9.9 to 3.9.10 ([#278](https://github.com/Th3S4mur41/demo-auto-security-release/issues/278)) ([367376c](https://github.com/Th3S4mur41/demo-auto-security-release/commit/367376c2f547970ff52acbd5ffa0f808f2e83b01))
+* **deps-dev:** Bump semantic-release from 25.0.9 to 26.0.1 in the semantic-release group ([#282](https://github.com/Th3S4mur41/demo-auto-security-release/issues/282)) ([9645fe8](https://github.com/Th3S4mur41/demo-auto-security-release/commit/9645fe8c1746697237353be95c7348bb4d53255d))
+* **deps-dev:** Bump the commitlint group with 2 updates ([#279](https://github.com/Th3S4mur41/demo-auto-security-release/issues/279)) ([14c410f](https://github.com/Th3S4mur41/demo-auto-security-release/commit/14c410f9f71b2b0394d7d24c73a40d2c6a864953))
+* **deps:** Bump actions/dependency-review-action from 5.0.0 to 5.0.1 ([#283](https://github.com/Th3S4mur41/demo-auto-security-release/issues/283)) ([d4690a0](https://github.com/Th3S4mur41/demo-auto-security-release/commit/d4690a00b552c239f1fa320e5d88a3e186b6cdd8))
+
 ## [1.0.27](https://github.com/Th3S4mur41/demo-auto-security-release/compare/v1.0.26...v1.0.27) (2026-10-11)
 
 ## [1.0.26](https://github.com/Th3S4mur41/demo-auto-security-release/compare/v1.0.25...v1.0.26) (2026-08-03)
